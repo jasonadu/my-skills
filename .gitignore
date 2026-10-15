@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Skill runtime artifacts (generated per-book working files)
+assets/
+ch*_raw.txt
+build_ch*.py
+chapter-*.html
+front-matter.html
+closing.html
+index.html
+*.zip
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
